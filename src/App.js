@@ -90,7 +90,7 @@ function App() {
       />
 
       <Routes>
-        <Route path="/sun-bright-main1" element={<HomeFour />} />
+        <Route path="/" element={<HomeFour />} />
         <Route path="/home-2" element={<HomeTwo />} />
         <Route path="/home-3" element={<HomeThree />} />
         {/* <Route path="/home-4" element={<HomeFour />} /> */}
